@@ -14,7 +14,7 @@ tagline:
 
 <div style="margin: auto;margin-top: 40px">
     <div style="width: 200px;margin: auto">
-        <img src="http://localhost:8080/images/longjie.jpg" alt="" srcset="" style="width: 200px;border-radius: 100px;">
+        <img src="/images/longjie.jpg" alt="" srcset="" style="width: 200px;border-radius: 100px;">
     </div>
     <div style="text-align: center">
         <h1>龙杰的博客</h1>
